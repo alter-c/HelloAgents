@@ -159,3 +159,8 @@ cython_debug/
 #.idea/
 .DS_Store
 .obsidian
+
+# uv
+.venv/
+.python-version
+uv.lock
